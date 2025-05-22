@@ -8,4 +8,4 @@ CREATE TABLE tbl_mahasiswa (
   PRIMARY KEY (npm)
 );
 
-insert  into tbl_mahasiswa(npm,nama,prodi) values ('11312136','Reflan ','Informatika'),('11312137','Mugi','Teknik Komputer'),('11312138','Sahril','Sistem Informasi'),('11312139','Toni','Menejemen'),('11312140','Lutfi','Sastra Inggris');
+insert  into tbl_mahasiswa(npm,nama,prodi) values ('11312136','Reflan ','Informatika'),('11312137','Mugi','Teknik Komputer'),('11312138','Sahril','Sistem Informasi'),('11312139','Toni','Menejemen'),('11312140','Lutfi','Sastra Inggris');
